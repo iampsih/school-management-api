@@ -45,3 +45,6 @@ group :development do
   # gem "spring"
 end
 
+group :test do
+  gem "minitest", "~> 5.25"
+end
